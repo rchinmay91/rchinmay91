@@ -3,8 +3,7 @@ I am a versatile Data Scientist and Analytics Engineer who builds end-to-end dat
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chinmay-rojatkar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rchinmay2002)       ## 🌐 Socials:
-[![Portfolio](https://shields.io)](https://github.io) [![LinkedIn](https://shields.io)](https://linkedin.com) [![Email](https://shields.io)](mailto:rchinmay2002)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chinmay-rojatkar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rchinmay2002)   
 
 
 
