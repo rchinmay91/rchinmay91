@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a versatile Data Scientist and Analytics Engineer who builds end-to-end data solutions, from enterprise business intelligence to local AI applications. My expertise spans predictive machine learning, time-series forecasting, and natural language processing, backed by strong pipeline engineering in Python, R, SQL, and SAS. I thrive on translating messy, multi-source datasets into interactive dashboards, automated pipelines, and production-ready models that drive strategic business decisions.
+Motivated Data Scientist and AI Engineer specializing in developing rapid Proof-of-Concepts (PoCs) and Minimum Viable Products (MVPs) for Machine Learning (ML) and Generative AI (GenAI) solutions. Hands-on expertise in building and deploying GenAI-based chatbots, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG) systems. Highly proficient in Python, SQL, supervised and unsupervised learning algorithms, exploratory data analysis (EDA), model evaluation metrics, and MLOps practices. Experienced in monitoring GenAI outputs for bias, hallucinations, and accuracy while collaborating on data pipelines for enterprise applications.
 
 
 ## 🌐 Socials:
